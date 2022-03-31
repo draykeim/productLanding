@@ -1,0 +1,50 @@
+
+body {
+    background-color: slategrey;
+    align-items: flex-start;
+    font-family: Niconne;
+    font-size: x-large;
+}
+.card1 {
+    background-color: darkgray;
+
+}
+.card2 {
+    background-color: darkgray;
+}
+.card3 {
+    background-color: darkgray;
+}
+.card4 {
+    background-color: darkgray;
+}
+.weapon-img {
+    height: 355px;
+    width: 425px;
+   padding: 0px, 20px, 20px, 0;
+ 
+}
+.armor-img {
+    height: 375px;
+    width: 425px;
+    padding: 0, 20px, 20px, 0;
+}
+.alchemy {
+    height: 375px;
+    width: 425px;
+    padding: 0, 20px, 20px, 0;
+  
+}
+.potion {
+    height: 375px;
+    width: 425px;
+    padding: 0, 20px, 20px, 0;
+  
+}
+
+ul.nav-list {
+    list-style-type: none;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
